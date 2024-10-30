@@ -41,7 +41,7 @@ body{
 }
 #menu-icon{
     font-size: 3.6rem;
-    color: var(--main-color)
+    color: var(--main-color);
     display: none;
 }
 
@@ -191,7 +191,7 @@ section{
 }
 
 .about-img img{
-    width: 32vw;
+    width: 200px;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     transition: 0.4s ease-in-out;
@@ -354,11 +354,11 @@ section{
     margin-top: 40px;
     font-size: 16px;
 }
-@media(max-width: 430px){
+@media (max-width: 430px){
 
     
     #menu-icon{
-        display: none;
+    display: none;
     }
     
     .logo{
