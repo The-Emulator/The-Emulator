@@ -1318,6 +1318,7 @@ section{
     .navbar a{
         font-size: 1.3rem;
         margin-left: 0.8rem;
+        color: black;
         font-weight: 350;
     }    
     section{
@@ -1491,7 +1492,7 @@ section{
         padding: 2%;
         display: flex;
         align-items: center;
-        background-color: rgba(219, 235, 219, 0.673);
+        background-color: rgba(12, 193, 12, 0.673);
     }    
     .logo{
         font-size: 18px;
@@ -1502,6 +1503,7 @@ section{
     .navbar a{
         font-size: 1.1rem;
         margin-left: 0.3rem;
+        color: black;
         font-weight: 345;
     }    
     section{
@@ -1680,4 +1682,3 @@ section{
     }
 
 }
-/* @media only screen and (max-width: 768px) and (orientation: landscape) */
